@@ -1,4 +1,6 @@
 # MybatisGeneratorPlugin
+![GitHub](https://img.shields.io/github/license/LiZhenNet/mybatis-generator-plugins?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/LiZhenNet/mybatis-generator-plugins?style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/LiZhenNet/mybatis-generator-plugins?style=flat-square) 
+
 自己常用的一些 mbg 的插件,包含 lombok支持、生成注释、Fluent Api的支持等等
 ## 使用
 1. 升级Mybatis Generator 版本 到 1.3.7
